@@ -1,0 +1,5 @@
+streamlit
+tensorflow
+numpy
+langdetect
+scikit-learn
